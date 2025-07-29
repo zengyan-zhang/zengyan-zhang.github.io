@@ -23,7 +23,7 @@ thermodynamically consistent reversible-irreversible PDEs</a>, Journal of Comput
 
 1. M. Jiang, **Z. Zhang** & J. Zhao, <a href="https://www.sciencedirect.com/science/article/pii/S002199912200016X">Improving the accuracy and consistency of the scalar auxiliary variable (SAV) method with relaxation</a>, Journal of Computational Physics, 110954,2022.
 
-1. L. Chen, **Z. Zhang** & J. Zhao, <a href="https://par.nsf.gov/servlets/purl/10337459">Numerical approximations of phase field models using a general class of linear time-integration schemes</a>, Communications in Computational Physics, 30(5), 2021. 
+1. L. Chen, **Z. Zhang** & J. Zhao, <a href="https://ui.adsabs.harvard.edu/link_gateway/2021CCoPh..30.1290C/doi:10.4208/cicp.OA-2020-0244">Numerical approximations of phase field models using a general class of linear time-integration schemes</a>, Communications in Computational Physics, 30(5), 2021. 
 
 1. Q. Wang, L. Jin & **Z. Zhang**, <a href="https://www.aimsciences.org/article/doi/10.3934/dcds.2020108">Global well-posedness, pattern formation and spiky stationary solutions in a Beddington-DeAngelis competition system</a>, Discrete and Continuous Dynamical Systems - Series A, 40(4), 2020.
 
