@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zengyan Zhanag"
+title                    : "Zengyan Zhang"
 title_separator          : "-"
 name                     : &name "Zengyan Zhang"
 description              : &description "personal description"
