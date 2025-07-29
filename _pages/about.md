@@ -18,5 +18,5 @@ I received my Ph.D. in Mathematical Sciences from Binghamton Univesity, State Un
 
 * Numerical Methods for Multiphase Complex Fluids
 * Structure-preserving Model Order Reduction
-* Modeling Cellular Dynamics
+* Modeling Cellular Dynamics, Biofilms
 * Free Boundary Problems on Manifolds
