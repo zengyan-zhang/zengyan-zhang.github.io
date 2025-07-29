@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal web page!
+Welcome to my personal webpage!
 
 I am currently a Postdoctoral Scholar in the Department of Mathematics at The Pennsylvania State University, University Park, where I work under the mentroship of Professor <a href="https://science.psu.edu/math/people/jzh13">John Harlim</a> and Professor <a href="https://science.psu.edu/math/people/wxh64">Wenrui Hao</a>.
 
