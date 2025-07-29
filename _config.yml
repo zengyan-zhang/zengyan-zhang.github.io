@@ -352,6 +352,3 @@ compress_html:
   ignore:
     envs: development
 
-nav:
-  - name: "Portfolio"
-    url: /portfolio/
