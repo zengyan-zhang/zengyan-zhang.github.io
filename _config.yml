@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
 title                    : "Zengyan Zhanag"
 title_separator          : "-"
 name                     : &name "Zengyan Zhang"
