@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Mathematical Sciences, Binghamton University, State University of New York, 2023 - 2024
 * Ph.D. Candidate in Applied Mathematics, Utah State University, 2019 - 2023
-* M.phil. in Applied Mathematics, The Hong Kong Polytechnic University, 2015-2017
+* M.Phil. in Applied Mathematics, The Hong Kong Polytechnic University, 2015-2017
 
 Work experience
 ======
