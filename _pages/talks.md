@@ -8,11 +8,13 @@ author_profile: true
 Incoming
 ======
 
-* 2025 SIAM New York-New Jersey-Pennsylvania Section Conference, The Pennsylvania State University, State College, PA, October 31 - November 2, 2025
 
 Past
 ======
+* 2025 SIAM New York-New Jersey-Pennsylvania Section Conference, The Pennsylvania State University, State College, PA, October 31 - November 2, 2025
 
+* Departmental Analysis Seminar, SUNY at Binghamton, Binghamton, NY, October 29, 2025
+  
 * 2024 SIAM New York-New Jersey-Pennsylvania Section Conference, Rochester Institute of Technology, Rochester, NY, November 1 - 3, 2024
 
 * 2023 SIAM New York-New Jersey-Pennsylvania Section Conference, New Jersey Institute of Technology, Newark, NJ, October 20 - 22, 2023
