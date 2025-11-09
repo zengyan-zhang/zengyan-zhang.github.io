@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Instructor at The Pennsylvania State University
+* MATH 451 Numerical Computations, Spring 2026
+
 * MATH 250 Ordinary Differential Equations, Fall 2025
 
 * MATH 231 Calculus of Several Variables, Spring 2025
