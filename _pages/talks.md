@@ -11,7 +11,7 @@ Incoming
 
 Past
 ======
-* 2025 SIAM New York-New Jersey-Pennsylvania Section Conference, The Pennsylvania State University, State College, PA, October 31 - November 2, 2025
+* 2025 SIAM New York-New Jersey-Pennsylvania Section Conference, The Pennsylvania State University, University Park, PA, October 31 - November 2, 2025
 
 * Departmental Analysis Seminar, SUNY at Binghamton, Binghamton, NY, October 29, 2025
   
