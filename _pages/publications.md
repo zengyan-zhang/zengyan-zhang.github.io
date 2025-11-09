@@ -9,6 +9,7 @@ author_profile: true
 
 1. **Z. Zhang**, Y. Zhao, Y. Huang & J. Zhao, Computational modeling of cell migration in microfluidic channel, preprint.
 
+1. **Z. Zhang**, W. Hao & J. Harlim, <a href="https://arxiv.org/abs/2510.14088">Geometric local parameterization for solving Hele-Shaw problems with surface tension</a>, Submitted to SIAM Journal on Scientific Computing. Available at arXiv:2510.14088.
 
 ## Journal Papers
 
