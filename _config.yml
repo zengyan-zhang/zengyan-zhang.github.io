@@ -21,7 +21,7 @@ repository               : "zengyan-zhang/zengyanzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_ZY.png"
+  avatar           : "profile_ZY.jpg"
   name             : "Zengyan Zhang"
   bio              : "Postdoctoral Scholar in Department of Mathematics"
   employer         : "Penn State"
