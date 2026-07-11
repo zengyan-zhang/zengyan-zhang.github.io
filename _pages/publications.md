@@ -9,7 +9,7 @@ author_profile: true
 
 1. **Z. Zhang**, Y. Zhao, Y. Huang & J. Zhao, Computational modeling of cell migration in microfluidic channel, preprint.
 
-1. **Z. Zhang**, W. Hao & J. Harlim, <a href="https://arxiv.org/abs/2607.02880">Geometric local parameterization method for generalized Hele-Shaw free boundary problems with source terms</a>, arXiv:2607.02880, 2026. Submitted.
+1. **Z. Zhang**, W. Hao & J. Harlim, <a href="https://arxiv.org/abs/2607.02880">Geometric local parameterization method for generalized Hele-Shaw free boundary problems with source terms</a>, arXiv:2607.02880, 2026. Under Review.
 
 ## Journal Papers
 
