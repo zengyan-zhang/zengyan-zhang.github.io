@@ -13,7 +13,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. **Z. Zhang**, W. Hao & J. Harlim, <a href="https://arxiv.org/abs/2510.14088">Geometric local parameterization for solving Hele-Shaw problems with surface tension</a>, To appear in SIAM Journal on Scientific Computing.
+1. **Z. Zhang**, W. Hao & J. Harlim, <a href="https://arxiv.org/abs/2510.14088">Geometric local parameterization for solving Hele-Shaw problems with surface tension</a>, To appear in SIAM Journal on Scientific Computing, 2026.
 
 1. **Z. Zhang** & J. Zhao, <a href="https://doi.org/10.1016/j.jcp.2024.113562">General numerical framework to derive structure preserving reduced order models for
 thermodynamically consistent reversible-irreversible PDEs</a>, Journal of Computational Physics, 113562, 2025.
