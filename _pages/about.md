@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal webpage!
 
-I am currently a Postdoctoral Fellow in the Department of Mathematics at Tulane University. I was a Postdoctoral Scholar at The Pennsylvania State University, University Park, where I work under the mentorship of Professor <a href="https://science.psu.edu/math/people/jzh13">John Harlim</a> and Professor <a href="https://science.psu.edu/math/people/wxh64">Wenrui Hao</a>.
+I am currently a Postdoctoral Fellow in the Department of Mathematics at Tulane University. I was a Postdoctoral Scholar in the Department of Mathematics at The Pennsylvania State University, University Park, where I work under the mentorship of Professor <a href="https://science.psu.edu/math/people/jzh13">John Harlim</a> and Professor <a href="https://science.psu.edu/math/people/wxh64">Wenrui Hao</a>.
 
 I received my Ph.D. in Mathematical Sciences from Binghamton Univesity, State University of New York, under the supervision of Professor <a href="https://math.ua.edu/people/jia-zhao/">Jia Zhao</a>.
 
