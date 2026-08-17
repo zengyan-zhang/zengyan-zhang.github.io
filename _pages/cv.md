@@ -17,6 +17,7 @@ Education
 
 Work experience
 ======
-* September 2024 - Present: Postdoctoral Scholar, The Pennsylvania State University, University Park
+* August 2026 - Present: Postdoctoral Fellow, Tulane University
+* September 2024 - July 2026: Postdoctoral Scholar, The Pennsylvania State University, University Park
  
 
