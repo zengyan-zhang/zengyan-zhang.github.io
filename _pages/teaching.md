@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ### Instructor at Tulane University
-* MATH 2420 Intro to Applied Math, Spring 2027
+* MATH 2240 Intro to Applied Math, Spring 2027
 
 * MATH 7570 Scientific Computing II, Fall 2026
   
