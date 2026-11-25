@@ -4,7 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+### Instructor at Tulane University
+* MATH 2420 Intro to Applied Math, Spring 2027
+* 
+* MATH 7570 Scientific Computing II, Fall 2026
+  
 ### Instructor at The Pennsylvania State University
 * MATH 451 Numerical Computations, Spring 2026
 
